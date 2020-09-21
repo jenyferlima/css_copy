@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap');
+
+.rodape {
+  background: #fff;
+  padding: 8px;
+}
+
+.rodape p {
+  font-size: 10px;
+  font-family: Inconsolata;
+  font-weight: 700;
+  color: #000;
+  text-align: right;
+  margin: 0px;
+}
+
+.rodape p a {
+  color: #000;
+  font-size: 11px;
+}
+
+.rodape p a:hover {
+  color: #000;
+}
+
+@media (max-width: 768px) {
+	.rodape p {
+		text-align: center !important;
+	}
+}
