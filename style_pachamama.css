@@ -1,0 +1,40 @@
+.full.menu .conteiner .nivel-um>li>a>.titulo {
+    font-family: Gabriela;
+    color: #B51F47 !important;
+    font-size: 14px;
+    text-align: center !important;
+}
+
+.full.menu .conteiner .nivel-um>li>a .icon-chevron-down {
+    display: none !important;
+}
+
+#listagemProdutos.listagem .titulo-categoria strong {
+    font-family: Gabriela !important;
+    color: #B51F47 !important;
+	font-weight: bold;
+}
+
+#listagemProdutos.listagem .titulo-categoria.vitrine-6058957 strong:after {
+    content: url(https://cdn.awsli.com.br/1641/1641875/arquivos/graf_cabelo_r.png);
+    padding-left: 40px;
+}
+
+#listagemProdutos.listagem .titulo-categoria.vitrine-6058957 strong:before {
+    content: url(https://cdn.awsli.com.br/1641/1641875/arquivos/graf_cabelo.png);
+    padding-right: 40px;
+} 
+
+#listagemProdutos.listagem .titulo-categoria.vitrine-6001916 strong:after {
+    content: url(https://cdn.awsli.com.br/1641/1641875/arquivos/graf_oleo.png);
+    padding-left: 40px;
+}
+
+#listagemProdutos.listagem .titulo-categoria.vitrine-6001916 strong:before {
+    content: url(https://cdn.awsli.com.br/1641/1641875/arquivos/graf_oleo.png);
+    padding-right: 40px;
+}
+
+img.banner_meio {
+	padding: 40px 0px;
+}
