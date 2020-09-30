@@ -1,3 +1,17 @@
+@font-face {
+	font-family: 'Gabriela Bold';
+	src: url('https://rawcdn.githack.com/jenyferlima/css_copy/2cbbe2e88b0e5be3f1fc3903393347649828631d/Gabriela_Bold.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gabriela Regular';
+	src: url('https://rawcdn.githack.com/jenyferlima/css_copy/2cbbe2e88b0e5be3f1fc3903393347649828631d/Gabriela_Regular.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 .full.menu .conteiner .nivel-um>li>a>.titulo {
     font-family: Gabriela;
     color: #B51F47 !important;
@@ -37,4 +51,21 @@
 
 img.banner_meio {
 	padding: 40px 0px;
+}
+
+#rodape .institucional {
+    background-color: #0E1816 !important;
+    padding: 50px 20px !important;
+}
+
+.redes_sociais_rodape img {
+    padding: 8px;
+}
+
+.redes_sociais_rodape {
+    padding-top: 25px;
+}
+
+img.logo_footer {
+    padding: 20px 0px;
 }
