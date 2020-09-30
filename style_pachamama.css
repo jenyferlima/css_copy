@@ -24,9 +24,9 @@
 }
 
 #listagemProdutos.listagem .titulo-categoria strong {
-    font-family: Gabriela !important;
     color: #B51F47 !important;
-	font-weight: bold;
+    font-family: Gabriela Bold;
+    text-transform: lowercase !important;
 }
 
 #listagemProdutos.listagem .titulo-categoria.vitrine-6058957 strong:after {
